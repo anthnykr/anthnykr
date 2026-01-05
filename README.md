@@ -25,5 +25,5 @@
 
 ## Connect
 
-- 🐦 [Twitter](https://twitter.com/anthnykr)
-- 💼 [LinkedIn](https://linkedin.com/in/anthnykr)
+- 🐦 [X](https://x.com/kr0der)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anthonykroeger/)
