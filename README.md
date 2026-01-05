@@ -23,6 +23,6 @@ Self-taught dev building startups. Went from actuarial analyst to forward deploy
 
 ## Connect
 
-- 🐦 [X](https://x.com/kr0der)
-- 💼 [LinkedIn](https://www.linkedin.com/in/anthonykroeger/)
+[![X](https://img.shields.io/badge/-@kr0der-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/kr0der)
+[![LinkedIn](https://img.shields.io/badge/-Anthony_Kroeger-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonykroeger/)
 
