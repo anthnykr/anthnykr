@@ -13,7 +13,10 @@
 
 ## Current Projects
 
-- 🧩 **[PuzzleTime](https://puzzletime.io/)** - Puzzle game (closed source)
+#### Closed Source
+- 🧩 **[Puzzle Time](https://puzzletime.io/)** - Puzzle game (closed source)
+
+#### Open Source
 - ✈️ **[travel-info](https://github.com/anthnykr/travel-info)** - CLI tool for AI-powered travel research
 
 ## Newsletter
