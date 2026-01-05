@@ -9,7 +9,7 @@
 ![tRPC](https://img.shields.io/badge/-tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-> Self-taught dev building startups. Went from actuarial analyst to forward deployed engineer. Now shipping fast with AI and sharing what I learn.
+> Self-taught dev building startups. Went from actuarial analyst to forward deployed engineer. Now playing around with AI, building as much as possible, and sharing what I learn along the way!
 
 ## Current Projects
 
