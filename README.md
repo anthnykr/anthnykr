@@ -12,9 +12,12 @@ Self-taught dev building startups. Went from actuarial analyst to forward deploy
 ## Current Projects
 
 #### Closed Source
+
+- 📋 **[Kanboard](https://kanboard.io/)** - Minimalist kanban board for task management
 - 🧩 **[Puzzle Time](https://puzzletime.io/)** - Daily puzzle games
 
 #### Open Source
+
 - ✈️ **[travel-info](https://github.com/anthnykr/travel-info)** - CLI tool for AI-powered travel research
 
 ## Newsletter
@@ -26,4 +29,3 @@ Self-taught dev building startups. Went from actuarial analyst to forward deploy
 [![X](https://img.shields.io/badge/-@kr0der-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/kr0der)
 [![YouTube](https://img.shields.io/badge/-@kr0deryt-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@kr0deryt)
 [![LinkedIn](https://img.shields.io/badge/Anthony_Kroeger-0A66C2?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==&logoColor=white)](https://www.linkedin.com/in/anthonykroeger/)
-
