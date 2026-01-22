@@ -18,7 +18,7 @@ Self-taught dev building startups. Went from actuarial analyst to forward deploy
 
 #### Products
 
-- 🎬 **[Fast Promo](https://fastpromo.io/)** - AI-powered promotional video generator
+- 🎬 **[Fast Promo](https://fastpromo.io/)** - Promo videos for product launches
 - 🧩 **[Puzzle Time](https://puzzletime.io/)** - Daily puzzle games
 - 🟦 **[Better GitHub Home Page](https://chromewebstore.google.com/detail/better-github-home-page/ocdhiaolaoaabgebmgkndmgokeedplec)** - Chrome extension that replaces GitHub’s home feed with a repository grid
 
