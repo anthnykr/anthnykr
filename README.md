@@ -11,7 +11,7 @@ Self-taught dev building startups. Went from actuarial analyst to forward deploy
 
 ## Current Projects
 
-#### 52 Apps in 52 Weeks
+#### 52 Products in 52 Weeks
 
 - 📋 **[Kanboard](https://kanboard.io/)** (**1/52**) - Minimalist kanban board for task management
 - 🔒 **[Commit Lock](https://chromewebstore.google.com/detail/commit-lock/bpmolnbejdfclocenjpidoacjejfeanb?authuser=0&hl=en)** (**2/52**) - Chrome extension that blocks distraction sites unless you committed today
