@@ -17,6 +17,7 @@ Self-taught dev building startups. Went from actuarial analyst to forward deploy
 - 🔒 **[Commit Lock](https://chromewebstore.google.com/detail/commit-lock/bpmolnbejdfclocenjpidoacjejfeanb?authuser=0&hl=en)** - Chrome extension that blocks distraction sites unless you committed today
 - 🧩 **[Puzzle Time](https://puzzletime.io/)** - Daily puzzle games
 - 🟦 **[Better GitHub Home Page](https://chromewebstore.google.com/detail/better-github-home-page/ocdhiaolaoaabgebmgkndmgokeedplec)** - Chrome extension that replaces GitHub’s home feed with a repository grid
+- 🎙️ **[Codex Voice](https://github.com/anthnykr/codex-voice)** - Experimental macOS menu bar app that lets you hold `Control-M`, speak, and insert the transcript into the currently focused app
 - ✈️ **[travel-info](https://github.com/anthnykr/travel-info)** - CLI tool for AI-powered travel research
 
 ## Newsletter
