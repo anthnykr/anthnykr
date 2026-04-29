@@ -18,6 +18,7 @@ Self-taught dev building startups. Went from actuarial analyst to forward deploy
 - 🧩 **[Puzzle Time](https://puzzletime.io/)** - Daily puzzle games
 - 🟦 **[Better GitHub Home Page](https://chromewebstore.google.com/detail/better-github-home-page/ocdhiaolaoaabgebmgkndmgokeedplec)** - Chrome extension that replaces GitHub’s home feed with a repository grid
 - 🎙️ **[Codex Voice](https://github.com/anthnykr/codex-voice)** - Experimental macOS menu bar app that lets you hold `Control-M`, speak, and insert the transcript into the currently focused app
+- 🐱 **[Codex Cat](https://github.com/anthnykr/codex-cat)** - macOS menu bar companion that lets a pixel cat walk around Codex
 - ✈️ **[travel-info](https://github.com/anthnykr/travel-info)** - CLI tool for AI-powered travel research
 
 ## Newsletter
