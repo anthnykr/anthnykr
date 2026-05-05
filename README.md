@@ -14,6 +14,7 @@ Self-taught dev building startups. Went from actuarial analyst to forward deploy
 #### Current Products
 
 - 🐱 **[Codex Cat](https://github.com/anthnykr/codex-cat)** - macOS menu bar companion that lets a pixel cat walk around Codex
+- 🐾 **[Multi Codex Pets](https://github.com/anthnykr/multi-codex-pets)** - macOS menu bar app for showing multiple Codex-compatible pets at once
 - 📋 **[Kanboard](https://kanboard.io/)** - Minimalist kanban board for task management
 - 🧩 **[Puzzle Time](https://puzzletime.io/)** - Daily puzzle games
 
