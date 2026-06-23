@@ -14,6 +14,7 @@ Self-taught dev building startups. Went from actuarial analyst to forward deploy
 #### Current Products
 
 - 🗣️ **[Verse](https://verse.academy/)** - Speak English with confidence through real AI conversations and instant feedback on grammar, vocabulary, and fluency
+- 🖋️ **[Penquil](https://penquil.com/)** - LinkedIn growth tool to draft, schedule, and publish AI content that builds your personal brand
 - 📋 **[Kanboard](https://kanboard.io/)** - Minimalist kanban board for task management
 - 🧩 **[Puzzle Time](https://puzzletime.io/)** - Daily puzzle games
 
