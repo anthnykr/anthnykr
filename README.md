@@ -9,6 +9,8 @@
 
 Self-taught dev building startups. Went from actuarial analyst to forward deployed engineer. Now playing around with AI, building as much as possible, and sharing what I learn along the way!
 
+📬 **[Just Build](https://justbuild.beehiiv.com)** - Weekly newsletter on building things faster, using AI better, and shipping more.
+
 ## Current Projects
 
 #### Current Products
@@ -26,10 +28,6 @@ Self-taught dev building startups. Went from actuarial analyst to forward deploy
 - ✈️ **[travel-info](https://github.com/anthnykr/travel-info)** - CLI tool for AI-powered travel research
 - 🔒 **[Commit Lock](https://chromewebstore.google.com/detail/commit-lock/bpmolnbejdfclocenjpidoacjejfeanb?authuser=0&hl=en)** - Chrome extension that blocks distraction sites unless you committed today
 - 🟦 **[Better GitHub Home Page](https://chromewebstore.google.com/detail/better-github-home-page/ocdhiaolaoaabgebmgkndmgokeedplec)** - Chrome extension that replaces GitHub’s home feed with a repository grid
-
-## Newsletter
-
-📬 **[Just Build](https://justbuild.beehiiv.com)** - Weekly newsletter on building things faster, using AI better, and shipping more.
 
 ## Connect
 
