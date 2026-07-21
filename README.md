@@ -11,6 +11,7 @@
 
 #### Old Products
 
+- 📊 **[VoiceRatio](https://github.com/anthnykr/voice-ratio)** - macOS menu bar app that tracks the percentage of daily words dictated with Wispr Flow versus typed
 - 🐱 **[Codex Cat](https://github.com/anthnykr/codex-cat)** - macOS menu bar companion that lets a pixel cat walk around Codex
 - 🐾 **[Multi Codex Pets](https://github.com/anthnykr/multi-codex-pets)** - macOS menu bar app for showing multiple Codex-compatible pets at once
 - 🎙️ **[Codex Voice](https://github.com/anthnykr/codex-voice)** - Experimental macOS menu bar app that lets you hold `Control-M`, speak, and insert the transcript into the currently focused app
