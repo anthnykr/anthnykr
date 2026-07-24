@@ -1,7 +1,5 @@
 📬 **[Just Build](https://justbuild.beehiiv.com)** - Weekly newsletter on building things faster, using AI better, and shipping more.
 
-## Current Projects
-
 #### Current Products
 
 - 🗣️ **[Verse](https://verse.academy/)** - Speak English with confidence through real AI conversations and instant feedback on grammar, vocabulary, and fluency
@@ -18,8 +16,6 @@
 - ✈️ **[travel-info](https://github.com/anthnykr/travel-info)** - CLI tool for AI-powered travel research
 - 🔒 **[Commit Lock](https://chromewebstore.google.com/detail/commit-lock/bpmolnbejdfclocenjpidoacjejfeanb?authuser=0&hl=en)** - Chrome extension that blocks distraction sites unless you committed today
 - 🟦 **[Better GitHub Home Page](https://chromewebstore.google.com/detail/better-github-home-page/ocdhiaolaoaabgebmgkndmgokeedplec)** - Chrome extension that replaces GitHub’s home feed with a repository grid
-
-## Connect
 
 [![Website](https://img.shields.io/badge/-kr0der.com-E85D04?style=flat-square&logo=safari&logoColor=white)](https://kr0der.com/)
 [![X](https://img.shields.io/badge/-@kr0der-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/kr0der)
