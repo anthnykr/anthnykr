@@ -1,4 +1,4 @@
-📬 **[Just Build](https://justbuild.beehiiv.com)** - Weekly newsletter on building things faster, using AI better, and shipping more.
+📬 **[Just Build](https://kr0der.com/newsletter)** - Weekly newsletter on building things faster, using AI better, and shipping more.
 
 #### Current Products
 
