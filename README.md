@@ -2,6 +2,7 @@
 
 #### Current Products
 
+- 📸 **[Screenies](https://screenies.app/)** - AI-powered generator for App Store screenshots in all required sizes, matched to your app's features and branding
 - 🗣️ **[Verse](https://verse.academy/)** - Speak English with confidence through real AI conversations and instant feedback on grammar, vocabulary, and fluency
 - 📋 **[Kanboard](https://kanboard.io/)** - Minimalist kanban board for task management
 - 🧩 **[Puzzle Time](https://puzzletime.io/)** - Daily puzzle games
