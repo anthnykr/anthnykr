@@ -9,6 +9,7 @@
 
 #### Open Source
 
+- 📋 **[EasyPaste](https://github.com/anthnykr/easy-paste)** - macOS menu bar app with a wheel of your four most recent copies for quick paste
 - 📊 **[VoiceRatio](https://github.com/anthnykr/voice-ratio)** - macOS menu bar app that tracks the percentage of daily words dictated with Wispr Flow versus typed
 - 🐾 **[Multi Codex Pets](https://github.com/anthnykr/multi-codex-pets)** - macOS menu bar app for showing multiple Codex-compatible pets at once
 - ✈️ **[travel-info](https://github.com/anthnykr/travel-info)** - CLI tool for AI-powered travel research
