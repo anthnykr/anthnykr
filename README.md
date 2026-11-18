@@ -3,19 +3,15 @@
 #### Current Products
 
 - 📸 **[Screenies](https://screenies.app/)** - AI-powered generator for App Store screenshots in all required sizes, matched to your app's features and branding
-- 🗣️ **[Verse](https://verse.academy/)** - Speak English with confidence through real AI conversations and instant feedback on grammar, vocabulary, and fluency
-- 📋 **[Kanboard](https://kanboard.io/)** - Minimalist kanban board for task management
+- ✍️ **[Inkies](https://inkies.app/)** - Automated blog that researches, writes, fact-checks, and publishes a sourced article about your product every day
 - 🧩 **[Puzzle Time](https://puzzletime.io/)** - Daily puzzle games
 
-#### Open Source
+#### Graveyard
 
 - 📋 **[EasyPaste](https://github.com/anthnykr/easy-paste)** - macOS menu bar app with a wheel of your four most recent copies for quick paste
 - 📊 **[VoiceRatio](https://github.com/anthnykr/voice-ratio)** - macOS menu bar app that tracks the percentage of daily words dictated with Wispr Flow versus typed
 - 🐾 **[Multi Codex Pets](https://github.com/anthnykr/multi-codex-pets)** - macOS menu bar app for showing multiple Codex-compatible pets at once
 - ✈️ **[travel-info](https://github.com/anthnykr/travel-info)** - CLI tool for AI-powered travel research
-
-#### Old Products
-
 - 🐱 **[Codex Cat](https://github.com/anthnykr/codex-cat)** - macOS menu bar companion that lets a pixel cat walk around Codex
 - 🎙️ **[Codex Voice](https://github.com/anthnykr/codex-voice)** - Experimental macOS menu bar app that lets you hold `Control-M`, speak, and insert the transcript into the currently focused app
 - 🔒 **[Commit Lock](https://chromewebstore.google.com/detail/commit-lock/bpmolnbejdfclocenjpidoacjejfeanb?authuser=0&hl=en)** - Chrome extension that blocks distraction sites unless you committed today
