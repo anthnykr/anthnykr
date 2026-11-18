@@ -1,7 +1,9 @@
+<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anthnykr/anthnykr/output/activity-dark.gif">
   <img alt="Dithered mountain range drawn from Anthony Kroeger's GitHub contributions over the last year" src="https://raw.githubusercontent.com/anthnykr/anthnykr/output/activity-light.gif" width="100%">
 </picture>
+</p>
 
 📬 **[Just Build](https://kr0der.com/newsletter)** - Weekly newsletter on building things faster, using AI better, and shipping more.
 
